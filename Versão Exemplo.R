@@ -12,7 +12,7 @@ $ git push -u origin main (Para subir o arquivo comitado na branch "main")
 $ git pull (Para atualizar no Git e/ou no Github o que foi alterado de forma remota)
 
 $ git checkout -b "nova" (Para criar uma nova branch -> ex: "nova")
-$ git checkout main (Para trocar de brancho -> ex: Sair ir da branch "nova" e voltar para a branch "main")
+$ git checkout main (Para trocar de brancho -> ex: Sair da branch "nova" e voltar para a branch "main")
 
 
 
