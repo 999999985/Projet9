@@ -9,5 +9,6 @@ c <- c(a*b)
 #Versão 3 - Na Branch "Nova"
 
 library(tidyverse)
+library (readxl)
 
-ggplot2::aes(a,b)
+ggplot2::ggplot() + geom_point(aes(x=a,y=b))
